@@ -1,5 +1,4 @@
+wc -2
 #!/bin/bash
 pwd
-
-
 
